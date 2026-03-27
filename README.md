@@ -73,13 +73,12 @@ I2C-to-AXI4Lite-converter/
 │ ├── top_i2c_axi.v
 │
 ├── tb/
-│ ├── tb_i2c_slave.v
+│ └── tb_i2c_slave.v
 │
 ├── waveforms/
-│ ├── simulation_result.png
+│ └── simulation_result.png
 │
 └── README.md
-
 
 ---
 
